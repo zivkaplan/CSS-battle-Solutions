@@ -1,0 +1,36 @@
+<div></div>
+<style>
+    body {
+        background: #191919;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    div {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 150px;
+        height: 200px;
+        background-color: #F2AD43;
+        border-top-left-radius: 80px;
+        border-top-right-radius: 80px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        overflow: hidden;
+    }
+
+    div::after {
+        content: "";
+        position: absolute;
+        top: 100px;
+        left: 50px;
+        width: 200px;
+        height: 200px;
+        background-color: #824B20;
+        border-radius: 100%;
+        box-shadow: -150px 0px 0px 0px #E08027,
+            -75px -80px 0px -70px #FFF58F;
+    }
+</style>
