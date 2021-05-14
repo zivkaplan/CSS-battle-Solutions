@@ -1,0 +1,29 @@
+<div></div>
+<style>
+    body {
+        background: #191919;
+        display: flex;
+        justify-content: center;
+    }
+    div {
+        margin-top: 82px;
+        border-radius: 50% 50% 10% 10%;
+        width: 120px;
+        height: 120px;
+        position: relative;
+        background: #e08027;
+    }
+
+    div::before {
+        content: '';
+        position: absolute;
+        top: 95;
+        left: 35;
+        background: #824b20;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        z-index: -1;
+        box-shadow: 0px -119px 0px 0px #f2ad43;
+    }
+</style>
