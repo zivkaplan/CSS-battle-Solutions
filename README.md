@@ -12,5 +12,10 @@
 
 <img width="660" alt="Screen Shot 2021-05-03 at 22 27 58" src="https://user-images.githubusercontent.com/80772683/116923144-eee7bd00-ac5e-11eb-8e69-e117f326424c.png">
 
+### #68 Bell (one div) 
+
+<img width="384" alt="Screen Shot 2021-05-15 at 1 12 56" src="https://user-images.githubusercontent.com/80772683/118336700-dd35cd80-b51a-11eb-9bf7-7f2c65dc7f35.png">
+
+
 ### #70 Froggy (one div) 
 <img width="273" alt="Screen Shot 2021-05-03 at 22 28 09" src="https://user-images.githubusercontent.com/80772683/116923160-f3ac7100-ac5e-11eb-9ecd-48b18b2687e7.png">
